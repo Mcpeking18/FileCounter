@@ -4,3 +4,6 @@
 /Tower Y - Commercial
 
 test.py
+
+__pycache__/
+*.pyc
