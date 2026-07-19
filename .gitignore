@@ -8,3 +8,7 @@ test.py
 
 __pycache__/
 *.pyc
+
+/folder
+
+*.dwg
